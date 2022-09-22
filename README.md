@@ -6,3 +6,17 @@ Created early June 2014, I created this entire game by scratch. The only thing t
 The reason I'm uploading this now is just to see how far I've come. Perhaps in the future, I'll remake this project. I hope you like it!
 
 .Steph
+
+## Features: 
+
+- Mouse or keyboard control
+- 3 different ships
+- 5 unique bosses
+- a variety of enemy ships
+
+![Start menu](screenshots/1.PNG)
+![Select your controls](screenshots/2.PNG)
+![Choose a ship](screenshots/3.PNG)
+![Level 1](screenshots/4.PNG)
+![Level 1 Boss Standard](screenshots/5.PNG)
+![Level 1 Boss Shredder](screenshots/6.PNG)
